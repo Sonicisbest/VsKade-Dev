@@ -1,7 +1,7 @@
 {
  "song": {
   "player1": "bf",
-  "player2": "kadedev",
+  "player2": "dad",
   "notes": [
    {
     "endTime": 1116.27906976744,
@@ -14870,9 +14870,9 @@
     "type": "BPM Change"
    }
   ],
-  "song": "Cough",
+  "song": "Bopeebo",
   "validScore": true,
-  "stage": "sunset",
+  "stage": "stage",
   "needsVoices": true,
   "noteStyle": "normal",
   "speed": 2.8,
