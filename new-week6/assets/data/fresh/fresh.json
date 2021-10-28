@@ -1,7 +1,7 @@
 {
  "song": {
   "player1": "bf",
-  "player2": "kadedev",
+  "player2": "dad",
   "notes": [
    {
     "endTime": 1200,
@@ -7530,9 +7530,9 @@
     "type": "BPM Change"
    }
   ],
-  "song": "Jumpin",
+  "song": "Fresh",
   "validScore": true,
-  "stage": "sunset",
+  "stage": "stage",
   "needsVoices": true,
   "noteStyle": "normal",
   "speed": 2.3,
