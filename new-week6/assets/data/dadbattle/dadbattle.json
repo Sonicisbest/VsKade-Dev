@@ -1,9 +1,9 @@
 {
  "song": {
   "speed": 2.5,
-  "stage": "sunset",
+  "stage": "stage",
   "player1": "bf",
-  "player2": "kadedev",
+  "player2": "dad",
   "notes": [
    {
     "lengthInSteps": 16,
@@ -6006,6 +6006,6 @@
     "type": "BPM Change"
    }
   ],
-  "song": "banger"
+  "song": "Dadbattle"
  }
 }
